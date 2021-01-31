@@ -18,11 +18,10 @@ Zip structure :
 /Exercise03/gtest/Exercise03         // gtest project for the exercise 3
 
 
+Notes:
 
 - Code edited, compiled and executed under CLion2020.3 for mac.
 - gtest code edited, compiled and executed under Visual Studio Code for mac.
-
-Notes:
 - all /Exercise0x/main.cpp files are reasonably self-explanatory.
 - DEBUG definition can be uncommented for more traceability information during the execution.
 
