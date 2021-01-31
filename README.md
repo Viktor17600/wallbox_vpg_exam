@@ -19,8 +19,8 @@ Zip structure :
 
 
 
-Code edited, compiled and executed under CLion2020.3 for mac
-gtest code edited, compiled and executed under Visual Studio Code for mac
+- Code edited, compiled and executed under CLion2020.3 for mac.
+- gtest code edited, compiled and executed under Visual Studio Code for mac.
 
 Notes:
 - all /Exercise0x/main.cpp files are reasonably self-explanatory.
