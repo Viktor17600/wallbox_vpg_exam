@@ -1,7 +1,7 @@
 # wallbox_vpg_exam
 Part 1 - Unit Testing
 
-All solutions are packed inside Exercises.zip file
+Solutions are packed inside Exercise01.zip, Exercise02.zip and Exercise03.zip files.
 
 Zip structure :
 
